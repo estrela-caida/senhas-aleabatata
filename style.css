@@ -2,8 +2,8 @@
 :root{
     --branco: white;
     --cor-de-fundo:#f8c0ea;
-    --fundo-senha:#ce75c2; 
-    --fundo-texto:#ce75c2;
+    --fundo-senha:hsl(309, 49%, 75%); 
+    --fundo-texto:hsl(309, 49%, 75%);
     --borda:#da9ace;
     --fonte:'', sans-serif;
 }
